@@ -1,0 +1,3 @@
+outs:
+- md5: 810bcc44761d3ed30cc034c2242234f4.dir
+  path: data_dvc_test
